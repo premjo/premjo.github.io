@@ -428,7 +428,7 @@ img {
 
 .title p {
 	color: #564861;
-	margin: 30px 0 20px;
+	margin: 30px 20px 20px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	font-size: 16px;
@@ -686,7 +686,7 @@ a {
 	position: relative;
 	display: grid;
 	grid-template-columns: repeat(5, auto);
-	margin: 20px 0;
+	/* margin: 20px 0; */
   }
   .wrapper section .item {
 	/* width: max-content; */
@@ -725,9 +725,9 @@ a {
 	a.arrow__btn {
 	  display: none;
 	}
-	.wrapper {
+	/* .wrapper {
 		display: none;
-	}
+	} */
 
 	.wrapper section .item {
 		max-width: 100%;
